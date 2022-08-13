@@ -31,4 +31,4 @@ fastgif.make_gif(get_fig, 100, 'images/sine.gif', show_progress=True, writer_kwa
 
 Creates the following gif:
 
-![sine.gif](images/sine.gif)
+![sine.gif](https://github.com/matejmurin01/fastgif/blob/main/images/sine.gif)
