@@ -9,6 +9,9 @@ from matplotlib.figure import Figure
 from typing import Callable, Iterable
 
 
+__version__ = 1.0
+
+
 def __worker_fn(chunk: Iterable, where: str, fig_fn: Callable[[int], Figure]) -> None:
     try:
         for val in chunk:
