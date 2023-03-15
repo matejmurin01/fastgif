@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="fastgif",
-    version="1.1",
+    version="2.0",
     description="Matplotlib GIF maker",
     long_description=long_description,
     long_description_content_type="text/markdown",
